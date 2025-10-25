@@ -1,0 +1,19 @@
+{
+    "param_bruit": [
+      {"m1": 120, "m2": 130, "sig1": 1, "sig2": 2},
+      {"m1": 127, "m2": 127, "sig1": 1, "sig2": 5},
+      {"m1": 127, "m2": 128, "sig1": 1, "sig2": 1},
+      {"m1": 127, "m2": 128, "sig1": 0.1, "sig2": 0.1},
+      {"m1": 127, "m2": 128, "sig1": 2, "sig2": 3}
+    ],
+  
+    "signaux": [
+      "signaux/signal.npy",
+      "signaux/signal1.npy",
+      "signaux/signal2.npy",
+      "signaux/signal3.npy",
+      "signaux/signal4.npy",
+      "signaux/signal5.npy"
+    ]
+  }
+  
